@@ -6,3 +6,7 @@
 
 item-item 相似度計算並無用到 cosine similarity，僅以 "共同出現次數" 做概似的模擬。
 ---
+
+https://imgur.com/a/TCiQAqg
+
+https://imgur.com/a/BOHUGRQ
