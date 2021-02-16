@@ -5,7 +5,7 @@ def recommend_for_item(M, item_id):
     '''
     x[0]: 對推薦 item 的 item2item 所在 row，依編號排序
     x[1]: 對推薦 item 的 item2item 所在 row，
-          依出現次數(商品相關性)排序
+          依共同出現次數排序
     reverse=True: 遞減排序
     '''
     item_score = sorted(item_score.items(),
