@@ -4,5 +4,5 @@
 此程式僅為個人快速複習一下 itemCF 概念的 implementation
 ---
 
-item-item 相似度計算並無用到 cosine similarity，僅用 共同出現次數 做概似的模擬。
+item-item 相似度計算並無用到 cosine similarity，僅以 "共同出現次數" 做概似的模擬。
 ---
